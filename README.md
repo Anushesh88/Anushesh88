@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheAshutoshMishra/TheAshutoshMishra/main/assets/AI%20Robot%20Animation.gif" width="200"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anushesh!+👋;B.Tech+Student+@+IIT+Kharagpur;Data+Science+%26+Computer+Vision+Enthusiast;Always+learning+and+building!" alt="Typing SVG" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Anushesh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%7C%20Data%20Science%20%7C%20B.Tech%20%40%20IIT%20Kharagpur&descAlignY=52&descSize=18" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="AI Robot Animation"/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hey+There!+I'm+Anushesh;+Building+Computer+Vision+Models;+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+</a>
+
 </div>
-
-<img src="https://raw.githubusercontent.com/TheAshutoshMishra/TheAshutoshMishra/main/assets/line.gif" width="100%"/>
 
 ### 👨‍💻 About Me (Code View)
 
