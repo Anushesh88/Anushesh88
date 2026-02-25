@@ -76,25 +76,24 @@ const anushesh = {
   
 ### 💻 Languages & Frameworks
 <p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow" alt="SkillIcons" /></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow" alt="SkillIcons" /></a>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ### 🛠️ Tools & Environments
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" alt="SkillIcons" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" alt="SkillIcons" /></a>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ### 🎯 Core Competencies
-<br>
-<img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge" alt="CV" />
-<img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge" alt="DL" />
-<img src="https://img.shields.io/badge/Data_Science-45B7D1?style=for-the-badge" alt="DS" />
-<img src="https://img.shields.io/badge/NLP-FFA07A?style=for-the-badge" alt="NLP" />
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge" alt="CV" />
+  <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge" alt="DL" />
+  <img src="https://img.shields.io/badge/Data_Science-45B7D1?style=for-the-badge" alt="DS" />
+  <img src="https://img.shields.io/badge/NLP-FFA07A?style=for-the-badge" alt="NLP" />
+</p>
 
 </div>
 
@@ -104,21 +103,27 @@ const anushesh = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anushesh88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anushesh88&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anushesh88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anushesh88&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Langs"/>
 </div>
+
 <br>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Anushesh88&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Anushesh88&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushesh88&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushesh88&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
 <br>
-<!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anushesh88&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div> -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushesh88&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -126,15 +131,9 @@ const anushesh = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-<a href="mailto:anusheshjumale88@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+  <a href="mailto:anusheshjumale88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -143,23 +142,21 @@ const anushesh = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-<a href="https://github.com/Anushesh88?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects" />
-</a>
+  <a href="https://github.com/Anushesh88?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects" /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="40" height="40" /> Dev Quote
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20computer%20was%20born%20to%20solve%20problems%20that%20did%20not%20exist%20before.&author=Bill%20Gates" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20computer%20was%20born%20to%20solve%20problems%20that%20did%20not%20exist%20before.&author=Bill%20Gates" alt="Quote" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="40" height="40" /> Random Dev Joke
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -168,6 +165,7 @@ const anushesh = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="25" height="25" /> Show some love by starring my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" />
@@ -178,4 +176,5 @@ const anushesh = {
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+
 </div>
